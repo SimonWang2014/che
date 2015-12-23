@@ -35,6 +35,8 @@
          */
 
         window.IDE.config = {
+            "restContext": "/che/api",
+
             "hiddenFiles": ".*",
 
             "cheExtensionPath": "/che/ext"
